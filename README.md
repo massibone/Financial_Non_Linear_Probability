@@ -13,8 +13,8 @@ Risultati dell'Analisi Statistica:
 
 | Strumento | Media Rendimenti | Deviazione Standard | Skewness | Curtosi | P-value Jarque-Bera | Conclusione Normalità |
 | --- | --- | --- | --- | --- | --- | --- |
-| **SPY** | 0.000501 | 0.011232 | -0.5833 | 14.5691 | 0.000000e+00 | NON Normale |
-| **DGS10** | 0.000757 | 0.053147 | -0.0519 | 1.9925 | 7.000172e-95 | NON Normale |
+| **SPY**   | 0.000501  | 0.011232 | -0.5833 | 14.5691 | 0.000000e+00 | NON Normale |
+| **DGS10** | 0.000757  | 0.053147 | -0.0519 | 1.9925 | 7.000172e-95 | NON Normale |
 
 
 
