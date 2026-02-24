@@ -25,16 +25,13 @@ Questi risultati sottolineano l'importanza di considerare la probabilità non li
 
 # Come Utilizzare il Progetto
 
-1.
-Clona il Repository: git clone https://github.com/tuo_username/Financial-Non-Linear-Probability.git
+1. Clona il Repository: git clone https://github.com/tuo_username/Financial-Non-Linear-Probability.git
 
-2.
-Installa le Dipendenze: Assicurati di avere Python 3 installato e installa le librerie necessarie:
+2. Installa le Dipendenze: Assicurati di avere Python 3 installato e installa le librerie necessarie:
 
 pip install yfinance pandas-datareader pandas numpy scipy statsmodels matplotlib seaborn
 
-3.
-Esegui lo Script: Naviga nella directory del progetto ed esegui lo script Python:
+3. Esegui lo Script: Naviga nella directory del progetto ed esegui lo script Python:
 
 python nonlinear_finance_project.py
 
